@@ -1,5 +1,5 @@
 # tvOS Practice Projects
-These are my iOS 9 Swift 2 tvOS practice projects.
+These are my Swift 2 tvOS 9 practice projects.
 
 ![](https://github.com/duliodenis/tvOS-practice/blob/master/art/remote.png)
 
