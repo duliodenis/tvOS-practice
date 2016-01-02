@@ -9,7 +9,7 @@ No  | Project
 2. | Buttons
 3. | Custom View Focus
 4. | Navigation
-
+5. | Tabs
 
 ### Licensing
 tvOS Practice Projects are licensed under [the MIT License](https://github.com/duliodenis/tvOS-practice/blob/master/LICENSE).
